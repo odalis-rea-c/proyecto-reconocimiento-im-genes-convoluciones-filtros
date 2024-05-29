@@ -5,7 +5,7 @@ IMAGGA_API_SECRET = '*********'
 Por favor conectarse con IMAGGA 
 para ejecutar este proyecto por lo general.
 
-En cual se conecta, para realizar el proceso de detección de colores.
+En cual se conecta, para realizar el proceso de detección de colores con imagenes.
 
 
 
